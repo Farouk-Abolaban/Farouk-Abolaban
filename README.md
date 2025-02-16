@@ -45,7 +45,5 @@ I'm a **passionate developer** with experience in **full-stack development, auto
 🔗 **LinkedIn:** [linkedin.com/in/faroukabolaban](https://www.linkedin.com/in/faroukabolaban)  
 🐙 **GitHub:** [github.com/Farouk-Abolaban](https://github.com/Farouk-Abolaban)  
 
-💡 *"Code. Innovate. Automate."*  
-
 ---
 
